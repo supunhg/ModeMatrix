@@ -67,6 +67,12 @@ ModeMatrix/
 └── LICENSE         # MIT License
 ```
 
+## Screenshots
+
+<img width="1409" height="597" alt="image" src="https://github.com/user-attachments/assets/0a016377-7778-45f9-a5a6-1cc6ca899fc5" />
+<img width="1396" height="709" alt="image" src="https://github.com/user-attachments/assets/65f28bfc-ed3c-43b2-b9de-42da844d644d" />
+<img width="1356" height="487" alt="image" src="https://github.com/user-attachments/assets/06541fa1-3ee8-4c0e-a35c-38ba54358bdf" />
+
 ## Getting Started
 
 ### Clone the Repository
